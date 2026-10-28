@@ -1,0 +1,456 @@
+{
+  "searchHint": "ابحث  ",
+  "home": "الرئيسية",
+  "menu": "القائمة",
+  "myAccount": "حسابي",
+  "language": "اللغة",
+  "darkMode": "تغيير الوضع",
+  "logOut": "تسجيل خروج",
+  "premiumMember": "عضو مميز",
+  "featuredProperties": "عقارات مميزة",
+  "recentProperties": "عقارات حديثة",
+  "chat": "الدردشة",
+  "favorites": "المفضلة",
+  "notifications": "الإشعارات",
+  "cancel": "إلغاء",
+  "confirmLogout": "هل أنت متأكد من تسجيل الخروج؟",
+  "myapartment" : "شققي",
+  "share": "مشاركة",
+  "ShareTitle": "مشاركة اصدقائك",
+  "confirmShare": "المرجو الضغط على زر المشاركة لمشاركة التطبيق على تويتر أو فيسبوك أو غيرها من وسائل التواصل الاجتماعي شكرا.",
+  "shareSubject": " البرنامج الاول على مستوى  سوريا لتأجير الشقق",
+  "privacy": "الخصوصية",
+  "personFile": "ملف الشخصي",
+  "mybooking": "حجوزاتي",
+
+  "Add New Flat": "إضافة شقة جديدة",
+  "Flat Images": "صور الشقة",
+  "Flat Name": "اسم الشقة",
+  "space": "المساحة",
+  "Location": "الموقع",
+  "Price / Day": "السعر / اليوم ($)",
+  "Price / Week": "السعر / الأسبوع ($)",
+  "Number of Rooms": "عدد الغرف",
+  "Number of path rooms": "عدد الحمامات",
+  "Max People": "الحد الأقصى للأشخاص",
+  "Description": "الوصف",
+  "Description must not be empty": "الوصف لا يجب أن يكون فارغًا",
+  "Write details about the flat": "اكتب تفاصيل عن الشقة...",
+  "Please add images": "يرجى إضافة صور",
+  "Flat Saved Successfully": "تم حفظ الشقة بنجاح",
+  "Save Flat": "حفظ الشقة",
+  "cannot be empty": "لا يمكن أن يكون فارغًا",
+
+  "login_title": "تسجيل الدخول",
+  "email_hint": "البريد الإلكتروني",
+  "password_hint": "كلمة المرور",
+  "sign_in": "تسجيل الدخول",
+  "no_account": "ليس لديك حساب؟",
+  "register": "إنشاء حساب",
+  "forgot_password": "نسيت كلمة المرور؟",
+
+  "field_required": "هذا الحقل مطلوب",
+  "phone_min_digits": "يجب أن يكون على الأقل 10 أرقام",
+  "phone_invalid": "صيغة خاطئة للرقم *09",
+  "number_min_digits": "يجب أن يكون على الأقل 11 رقمًا",
+  "password_min_chars": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+  "email_gmail_only": "صيغة خاطئة  يجب  *--@--.--* ",
+
+  "national_id": "الرقم القومي",
+  "phone_num": "رقم الهاتف",
+  "last_name": "اسم العائلة",
+  "first_name": "الاسم الأول",
+  "already_have_acc": "لديك حساب بالفعل؟",
+
+  "landlord": "مالك",
+  "tenant": "مستأجر",
+
+  "theme" : "الثمة",
+
+  "verify_email" : "تحقق من البريد الإلكتروني",
+  "verify" : "تحقق",
+  "6-digit" : "أدخل الرمز المكون من 6 أرقام المرسل إلى:",
+  "resend": "إعادة إرسال الرمز",
+  "search" : "بحث",
+
+  "rent_type": "نوع الإيجار",
+  "property_type": "نوع العقار",
+  "floor": "طابق",
+
+
+  "flat_details": "تفاصيل الشقة",
+  "book_now": "ارسال الحجز",
+  "update_booking": "ارسال التعديلات",
+  "from": "من",
+  "to": "إلى",
+  "specification": "المواصفات",
+
+
+  "rooms": "الغرف",
+  "area": "المساحة",
+  "bathroom": "الحمام",
+  "balconys": "شرفات",
+  "has_roof": "يوجد سطح",
+  "is_deluxe": "فاخر",
+  "internet": "الإنترنت",
+  "kitchen": "المطبخ",
+  "available_time": "الوقت المتاح",
+
+
+  "filter": "فلترة النتائج",
+  "priceRange": "نطاق السعر",
+  "currency": "ل.س",
+  "province": "المحافظة",
+  "selectProvince": "اختر المحافظة",
+  "propertyType": "نوع العقار",
+  "selectPropertyType": "اختر نوع العقار",
+  "all": "الكل",
+  "reset": "إعادة التعيين",
+  "applyFilters": "تطبيق الفلترة",
+  "shop": "متجر",
+  "apartment": "شقة",
+  "warehouse": "مستودع",
+  "house": "منزل",
+  "villa": "فيلا",
+  "studio": "ستوديو",
+  "office": "مكتب",
+
+  "load_more": "جاري تحميل المزيد...",
+  "all_apartments_shown": "تم عرض جميع الشقق المتاحة",
+  "total_apartments": "إجمالي الشقق:",
+  "show_more": "عرض المزيد",
+  "reset_filter": "إعادة تعيين الفلترة",
+  "loading_data": "جاري تحميل البيانات...",
+
+  "rentType" : "نوع الايجار",
+  "monthly": "شهري",
+  "yearly" : "سنوي",
+
+
+
+
+  "confirmDelete": "تأكيد الحذف",
+  "deleteApartmentConfirm": "هل أنت متأكد من حذف هذه الشقة؟ لا يمكن التراجع عن هذا الإجراء.",
+  "delete": "حذف",
+  "deleteSuccess": "تم حذف الشقة بنجاح",
+  "deleteError": "حدث خطأ أثناء الحذف",
+  "edit": "تعديل",
+
+
+
+
+
+  "pending": "قيد الانتظار",
+  "approved": "موافق عليه",
+  "available": "متاح",
+  "rejected": "مرفوض",
+  "rented": "مؤجر",
+
+
+
+  "edit_apartment": "تعديل الشقة",
+  "add_new_apartment": "إضافة شقة جديدة",
+  "apartment_title": "عنوان الشقة",
+ 
+  "city": "المدينة",
+  "price": "السعر",
+  "rooms_count": "عدد الغرف",
+  "bathrooms_count": "عدد الحمامات",
+  "balconies_count": "عدد الشرفات",
+  "additional_features": "الميزات الإضافية",
+  "has_solar_energy": "يحتوي على طاقة شمسية",
+  "furnished": "مفروشة",
+  "has_electricity_meter": "يحتوي على عداد كهرباء",
+  "has_water_counter": "يحتوي على عداد ماء",
+  "deluxe": "ديلوكس",
+  "description": "الوصف",
+  "description_hint": "وصف العقار...",
+  "first_image_note": "الصورة الأولى ستكون الصورة الرئيسية",
+  "add_image": "إضافة",
+  "main_image": "رئيسية",
+  "add_apartment": "إضافة الشقة",
+  "update_apartment": "تعديل الشقة",
+  "select_province_error": "الرجاء اختيار محافظة",
+  "select_rent_type_error": "الرجاء اختيار نوع الإيجار",
+  "select_property_type_error": "الرجاء اختيار نوع العقار",
+  "select_image_error": "الرجاء اختيار صورة واحدة على الأقل",
+  "loading_provinces_error": "فشل تحميل المحافظات",
+  "picking_images_error": "خطأ في اختيار الصور",
+  "add_success": "تم إضافة الشقة بنجاح",
+  "update_success": "تم تعديل الشقة بنجاح",
+
+
+
+  
+
+"myBookings": "حجوزاتي",
+    "noBookings": "لا توجد حجوزات",
+    "bookYourFirstApartment": "يمكنك حجز شقة من خلال تصفح العروض المتاحة",
+    "searchBookings": "بحث في الحجوزات...",
+    "loadingBookings": "جاري تحميل الحجوزات...",
+    "confirmCancellation": "تأكيد الإلغاء",
+    "cancelBookingConfirm": "هل أنت متأكد من إلغاء هذا الحجز؟",
+    "bookingCancelledSuccess": "تم إلغاء الحجز بنجاح",
+    "bookingCancelledError": "حدث خطأ أثناء إلغاء الحجز",
+    "cancelBooking": "إلغاء الحجز",
+    "startDate": "تاريخ البداية",
+    "endDate": "تاريخ النهاية",
+    "guests": "ضيوف",
+    "bookingDate": "تاريخ الحجز",
+    "canceled": "ملغى",
+    "completed": "مكتمل",
+    "browseOffers": "تصفح العروض",
+    "noMoreBookings": "لا توجد المزيد من الحجوزات",
+
+    "confirm":"تأكيد",
+
+
+    "favourites": "المفضلة",
+  "loading_favorites": "جاري تحميل المفضلة...",
+  "error_loading": "حدث خطأ أثناء التحميل",
+  "try_again_later": "يرجى المحاولة مرة أخرى لاحقاً",
+  "retry": "إعادة المحاولة",
+  "no_favorites": "لا توجد مفضلات",
+  "add_properties_to_favorites": "يمكنك إضافة عقارات إلى المفضلة عن طريق الضغط على أيقونة القلب في صفحة العقار",
+  "browse_properties": "تصفح العقارات",
+  
+  "noApartmentsAdded": "لم يتم إضافة أي شقة",
+  "addYourFirstApartment": "أضف أول شقة لك",
+    "loading_my_apartment":"...تحميل شققي",
+    "room":"غرف",
+    "room_or_more":"غرف او اكثر",
+    "activeFilters": "فلاتر نشطة",
+  "noActiveFilters": "لا توجد فلاتر نشطة",
+
+
+  "loading_governorates": "...جاري تحميل المحافظات",
+  "no_governorates": "لا توجد محافظات متاحة",
+"temporary_filters": "فلاتر مؤقتة",
+"new": "جديد",
+"undefined": "غير محدد",
+
+"changing_language":"جاري تغيير اللغة",
+  "no_internet":"لا يوجد اتصال بالانترنت",
+  "loading":"جار التحميل",
+
+
+
+
+    "completeProfile": "أكمل الملف الشخصي",
+      "profileImage": "الصورة الشخصية",
+      "birthDate": "تاريخ الميلاد",
+      "enterCity": "أدخل مدينتك",
+      "enterProvince": "أدخل محافظتك",
+      "submit": "إرسال",
+      "profileImageRequired": "الصورة الشخصية مطلوبة",
+      "birthDateRequired": "تاريخ الميلاد مطلوب",
+
+
+      
+  "hey": "مرحباً ..👋",
+  "roleLabel": "صفتك  : ",
+  "approvedMessage": "تم قبولك في تطبيقنا. أهلاً وسهلاً! ✅",
+  "waitingMessage": "مرحباً .. يرجى الانتظار لموافقة الإدارة 🔜",
+  "buttonApproved": "هيا بنا! ",
+  "buttonLoading": "جارٍ التحميل .. ",
+  "loginActive": "تم تفعيل تسجيل الدخول 🎉",
+  "loginSoon": "سيتم تفعيل تسجيل الدخول قريباً .. 🤗",
+  "requestRejected": "تم رفض طلبك ❌",
+  "accountRejected": "تم رفض حسابك. لقد انتهكت سياسة الخصوصية، يرجى الاتصال بالدعم.",
+
+
+   "forgetTitle": "نسيت بريدي الإلكتروني",
+  "enterEmail": "أدخل بريدك الإلكتروني",
+  "emailHint": "البريد الإلكتروني",
+  "sendCodeButton": "إرسال الرمز",
+
+
+
+   "rejectChanges": "تم رفض التعديلات الاخيرة لملفك : ",
+  "pendingChanges": "التعديلات الاخيرة قيد المراجعة فعليا",
+  "approvedChanges": "تم قبول تعديلاتك الاخيرة بالفعل",
+  "noChangesSent": "لم تقم بارسال اي تعديلات على ملفك !",
+  "confirmSubmitTitle": "تأكيد الإرسال",
+  "confirmSubmitContent": "هل أنت متأكد من إرسال التعديلات؟\n سوف تتعلق التعديلات الجديدة حتى موافقة الادمن",
+  "ok": "موافق",
+  "profileTitle": "ملفك الشخصي",
+  "noDataChanged": "لم يتم تغيير أي بيانات",
+  "completeMissingData": "أكمل البيانات الناقصة !",
+
+
+
+    "password_reset": "إعادة تعيين كلمة المرور",
+    "enter_email_again": "أدخل بريدك الإلكتروني مرة أخرى",
+    "enter_code_verify": "أدخل رمز التحقق",
+    "code_hint": "### ###",
+    "enter_new_password": "أدخل كلمة المرور الجديدة",
+    
+    "new_password": "كلمة المرور الجديدة",
+    "resend_code": "إعادة إرسال الرمز",
+    
+    
+
+  "enterAllDigits": "يرجى إدخال جميع أرقام الرمز الستة",
+  "otpEntered": "رمز التحقق المدخل:",
+  "verifyEmail": "تأكيد البريد الإلكتروني",
+  "enterCodeSentTo": "أدخل الرمز المكون من 6 أرقام المرسل إلى:", 
+  "resendCode": "إعادة إرسال الرمز",
+
+   "noInternet": "لا يوجد اتصال بالإنترنت",
+  "noData": "لا توجد بيانات",
+  "noInternetOrError": "لا يوجد اتصال بالإنترنت أو حدث خطأ",
+  "errorLoadingProvinces": "حدث خطأ أثناء تحميل المحافظات",
+  "tryAgain": "حاول مرة ثانية",
+
+
+
+
+  
+  "apartment_details": "تفاصيل الشقة",
+  "error": "خطأ",
+  "loading_apartment_details": "جاري تحميل تفاصيل الشقة...",
+  "no_apartment_data_found": "لم يتم العثور على بيانات الشقة",
+ 
+  "failed_to_load_image": "فشل تحميل الصورة",
+  "view_reviews": "عرض التقييمات",
+  "this_property_for_you": "هذا العقار لك ☑️",
+  "owner": "المالك",
+  "property_features": "مميزات العقار",
+  "square_meters": "م²",
+ 
+  "bath": "حمام",
+  "balcony": "بلكونة",
+  "details": "التفاصيل",
+ 
+  "not_specified": "غير محدد",
+  
+  "amenities": "المرافق",
+  "roof_access": "وصول للسطح",
+  
+  "electricity_meter": "عداد الكهرباء",
+  "water_counter": "عداد المياه",
+  "solar_energy": "طاقة شمسية",
+  
+  "posted": "تاريخ النشر",
+  "available_dates": "التواريخ المتاحة",
+
+  "booking_this_flat": "حجوزات هذه الشقة",
+
+
+
+
+ "no_results_for": "لم يتم العثور على نتائج لـ",
+  "within_applied_filters": "ضمن الفلترة المطبقة",
+  "no_results_for_filters": "لم يتم العثور على نتائج تطابق الفلترات المطبقة",
+  "no_apartments_available": "لا توجد شقق متاحة حالياً",
+
+
+
+
+  
+  "booking_apartment": "حجز شقة",
+ 
+  "start_date": "تاريخ البدء",
+  "end_date": "تاريخ الانتهاء",
+  "select_start_date": "اختر تاريخ البدء",
+  "select_end_date": "اختر تاريخ الانتهاء",
+  "number_of_guests": "عدد الضيوف",
+  "enter_number_of_guests": "أدخل عدد الضيوف",
+  "special_requests_optional": "طلبات خاصة (اختياري)",
+  "any_special_requirements": "أي متطلبات خاصة...",
+  "payment_intent_id": "معرف الدفع",
+  "enter_payment_intent_id": "أدخل معرف الدفع",
+  "payment_intent_note": "معرف الدفع مطلوب. يمكنك الحصول عليه من مزود الدفع الخاص بك.",
+  "booking_summary": "ملخص الحجز",
+  "total_days": "إجمالي الأيام",
+  "number_of_years": "عدد السنوات",
+  "number_of_months": "عدد الأشهر",
+ 
+  "booking_terms": "بالنقر على \"ارسال\"، فإنك توافق على شروط الخدمة وسياسة الإلغاء الخاصة بنا.",
+  "apartment_available": "الشقة متاحة",
+  "available_periods": "الفترات المتاحة في تاريخك:",
+  "total_amount": "المبلغ الإجمالي",
+
+  "select_start_date_first": "الرجاء تحديد تاريخ البدء أولاً",
+  "select_end_date_first": "الرجاء تحديد تاريخ الانتهاء أولاً",
+  
+  "enter_valid_number_of_guests": "الرجاء إدخال عدد صالح من الضيوف",
+
+  "select_end_date_months": "اختر تاريخ الانتهاء (أشهر 30 يومًا)",
+  "select_end_date_years": "اختر تاريخ الانتهاء (سنوات 360 يومًا)",
+  "month": "شهر",
+  "year": "سنة",
+  "s": "ات",
+
+
+ 
+
+  "added_since": "مضافة منذ",
+
+"pull_to_load_more": "اسحب لتحميل المزيد",
+
+
+  "reviews": "التقييمات",
+  "no_reviews_yet": "لا توجد تقييمات بعد",
+  "select_valid_rating": "اختر تقييم صحيح",
+  "review_updated_successfully": "تم تعديل التقييم بنجاح",
+  "confirm_delete": "تأكيد الحذف",
+  "confirm_delete_review": "هل أنت متأكد من حذف هذا التقييم؟",
+  "connect_internet_try_again": "تحقق من اتصال الإنترنت وحاول مرة أخرى",
+  "select_rating_first": "اختر التقييم أولاً",
+  "review_added_successfully": "تم إضافة التقييم بنجاح",
+  "review_deleted": "تم حذف التقييم",
+  "review_updated": "تم تعديل التقييم",
+  "edit_previous_review": "تعديل تقييم سابق",
+  "rate_previous_tenant": "اذا كنت مستأجر سابق لدينا ما تقييمك للشقة 😊",
+  "write_your_comment": "اكتب تعليقك",
+  "edit_review": "تعديل التقييم",
+  "submit_review": "إرسال التقييم",
+   "be_first_to_review": "كن أول من يكتب تقييم",
+  "error_loading_reviews": "خطأ في تحميل التقييمات",
+
+
+
+
+
+
+"main_image_note": "هذه هي الصورة الرئيسية\n التي ستظهر في العرض العام",
+"additional_images": "الصور الإضافية",
+"additional_images_note": "يمكن إضافة صور إضافية للشقة",
+"add_main_image": "إضافة صورة\nرئيسية",
+"select_main_image_error": "يرجى اختيار صورة رئيسية",
+
+
+"error_message": "استثناء العميل مع SocketException: فشل البحث عن المضيف: 'flatup.next99.net' (خطأ النظام: لا يوجد عنوان مرتبط باسم المضيف، رقم الخطأ = 7), uri=https://flatup.next99.net/api/all-reviews",
+  "suggestion": "اتصل بالإنترنت وحاول مرة أخرى",
+
+   "created": "تم الإنشاء",
+    "edited": "تم التعديل",
+
+
+
+    "delete_main_image" :"حذف الصورة الرئيسية",
+    "confirm_delete_main_image" :"هل أنت متأكد من حذف الصورة الرئيسية؟",
+
+      "must_select_main_image": "يجب اختيار صورة رئيسية للشقة",
+  "deleted_old_main_image": "لقد قمت بحذف الصورة الرئيسية القديمة. يجب اختيار صورة رئيسية جديدة",
+
+  "main": "رئيسية",
+  "old": "قديمة",
+  "no_bookings_yet": "لا يوجد حجوزات بعد",
+  "apartment_bookings": "حجوزات الشقة",
+  "updated_from_you": "تم تحديثه بواسطتك"
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
